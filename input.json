@@ -1,0 +1,22 @@
+{
+    "assets": [
+        {
+            "id": "bitcoin",
+            "ticker": "BTC",
+            "amount": 0.120923,
+            "allocation": 0.7
+        },
+        {
+            "id": "ethereum",
+            "ticker": "ETH",
+            "amount": 1.62138,
+            "allocation": 0.2
+        },
+        {
+            "id": "usd-coin",
+            "ticker": "USDC",
+            "amount": 1777.0,
+            "allocation": 0.1
+        }
+    ]
+}
